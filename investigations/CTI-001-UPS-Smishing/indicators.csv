@@ -1,0 +1,6 @@
+type,value,classification,source,observed_date,notes
+domain,livrari-premium[.]com,suspected,SMS,2026-11-24,Defanged
+ipv4,45.141.215.167,associated,DNS A,2026-11-24,Not independently classified malicious
+ptr,45.141.215.167.powered.by.rdp.sh.,associated,Reverse DNS,2026-11-24,Not an attribution
+asn,AS210558,context,RIPE WHOIS,2026-11-24,Not an attribution
+cidr,45.141.215.0/24,context,RIPE WHOIS,2026-11-24,Not a blocklist recommendation
